@@ -1,4 +1,4 @@
-# RADAR: Risk-Aware Ambiguity Detection and Decision Modeling for Regulatory Requirements
+# RADAR: Risk-Aware Ambiguity Detection for Regulatory Requirements
 
 RADAR (Risk-Aware Decision Framework for Ambiguity in Requirements) is a hybrid ambiguity detection and decision-support framework designed for safety-critical and regulatory requirements engineering environments.
 
